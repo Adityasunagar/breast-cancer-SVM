@@ -126,8 +126,8 @@ Project Workflow
   │
   ├── README.md
   ├── breast-cancer.csv
-  ├── svm_script.py        (optional)
-  ├── svm_notebook.ipynb   (optional)
+  ├── 2d boundary.png
+  ├── breast_cancer.ipynb
   └── requirements.txt
 
 requirements.txt
